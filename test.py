@@ -1,2 +1,2 @@
 def say_hello():
-  print "Hello Chitresh"
+  print "Hello Chitresh! Welcome to Python :)"
